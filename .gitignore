@@ -105,3 +105,17 @@ dist
 
 # C# files
 .eLibraryWebApp/.vs/
+.planner-app/client/node_modules/
+.planner-app/client/.eslintcache
+.planner-app/client/.gitignore
+.planner-app/client/package-lock.json
+.planner-app/server/node_modules/
+.planner-app/server/.eslintcache
+.planner-app/server/.gitignore
+.planner-app/server/package-lock.json
+.kampty-app/node_modules/
+.kampty-app/.eslintcache
+.kampty-app/.gitignore
+.kampty-app/package-lock.json
+
+
